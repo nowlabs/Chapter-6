@@ -11,4 +11,9 @@
 
 @implementation Engine
 
+- (NSString *) description
+{
+	return @"I am an engine, vrrooom";
+}
+
 @end
