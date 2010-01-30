@@ -7,6 +7,8 @@
 //
 
 #import "Car.h"
+#import "Engine.h"
+#import "Tire.h"
 
 
 @implementation Car

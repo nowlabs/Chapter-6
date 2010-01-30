@@ -11,6 +11,8 @@
 		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
 		8DD76F9F0486AA7600D96B5E /* Chapter 6.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859EA3029092ED04C91782 /* Chapter 6.1 */; };
 		E93327B8111285F700B70A52 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = E93327B7111285F700B70A52 /* Car.m */; };
+		E96B08701114545F00F4808D /* Slant6.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B086F1114545F00F4808D /* Slant6.m */; };
+		E96B08971114559600F4808D /* AllWeatherRadial.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B08961114559600F4808D /* AllWeatherRadial.m */; };
 		E9F4E68110E9BEE400D923A9 /* Tire.m in Sources */ = {isa = PBXBuildFile; fileRef = E9F4E68010E9BEE400D923A9 /* Tire.m */; };
 		E9F4E68410E9BF1600D923A9 /* Engine.m in Sources */ = {isa = PBXBuildFile; fileRef = E9F4E68310E9BF1600D923A9 /* Engine.m */; };
 /* End PBXBuildFile section */
@@ -36,6 +38,10 @@
 		C6859EA3029092ED04C91782 /* Chapter 6.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "Chapter 6.1"; sourceTree = "<group>"; };
 		E93327B6111285F700B70A52 /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
 		E93327B7111285F700B70A52 /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
+		E96B086E1114545F00F4808D /* Slant6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Slant6.h; sourceTree = "<group>"; };
+		E96B086F1114545F00F4808D /* Slant6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Slant6.m; sourceTree = "<group>"; };
+		E96B08951114559600F4808D /* AllWeatherRadial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllWeatherRadial.h; sourceTree = "<group>"; };
+		E96B08961114559600F4808D /* AllWeatherRadial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllWeatherRadial.m; sourceTree = "<group>"; };
 		E9F4E67F10E9BEE400D923A9 /* Tire.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tire.h; sourceTree = "<group>"; };
 		E9F4E68010E9BEE400D923A9 /* Tire.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tire.m; sourceTree = "<group>"; };
 		E9F4E68210E9BF1600D923A9 /* Engine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Engine.h; sourceTree = "<group>"; };
@@ -76,6 +82,10 @@
 				E9F4E68310E9BF1600D923A9 /* Engine.m */,
 				E93327B6111285F700B70A52 /* Car.h */,
 				E93327B7111285F700B70A52 /* Car.m */,
+				E96B086E1114545F00F4808D /* Slant6.h */,
+				E96B086F1114545F00F4808D /* Slant6.m */,
+				E96B08951114559600F4808D /* AllWeatherRadial.h */,
+				E96B08961114559600F4808D /* AllWeatherRadial.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -151,6 +161,8 @@
 				E9F4E68110E9BEE400D923A9 /* Tire.m in Sources */,
 				E9F4E68410E9BF1600D923A9 /* Engine.m in Sources */,
 				E93327B8111285F700B70A52 /* Car.m in Sources */,
+				E96B08701114545F00F4808D /* Slant6.m in Sources */,
+				E96B08971114559600F4808D /* AllWeatherRadial.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
